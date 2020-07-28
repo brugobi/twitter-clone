@@ -22,7 +22,7 @@ You can get a local copy of the repository please run the following commands on 
 
 ## Playing with the application
 
-![screenshot](./assets/images/tweeet_page.png)
+![screenshot](../assets/images/tweeet_page.png)
 
 - If you run the follow command on your terminal, you will be able to run the code on your web browser
 
