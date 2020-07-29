@@ -30,7 +30,7 @@ You can get a local copy of the repository please run the following commands on 
 
 - This app allows users to create posts and the authors of the posts are displayed only if as a User you are logged in
 
-- After that you will be able to create, edit and delete new users.
+- After that you will be able to create, edit and delete new posts.
 
 
 ## Author
